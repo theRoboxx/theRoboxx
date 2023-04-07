@@ -2,6 +2,7 @@
 
 ![github_not_foss](https://user-images.githubusercontent.com/63428105/230638086-d033fa13-8c09-4398-84b1-27c13d00fd9c.png)
 
+[Alternatives to Github](https://alternativeto.net/software/github/)
 <!--
 **theRoboxx/theRoboxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
