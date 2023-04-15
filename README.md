@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-![github_not_foss](https://user-images.githubusercontent.com/63428105/230638086-d033fa13-8c09-4398-84b1-27c13d00fd9c.png)
+[**Alternatives to Github**](https://alternativeto.net/software/github/)
 
-[Alternatives to Github](https://alternativeto.net/software/github/)
+<img src="https://user-images.githubusercontent.com/63428105/230638086-d033fa13-8c09-4398-84b1-27c13d00fd9c.png" width="500">
+
+----
+
+<ins> **Easy Guide:** </ins>
+
+<video style="width: 55vw; min-width: 330px;" src="https://user-images.githubusercontent.com/63428105/232229972-c736155a-6631-4a2b-98e5-cbb66914d611.mp4" controls="controls">
 <!--
 **theRoboxx/theRoboxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
