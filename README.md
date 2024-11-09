@@ -6,7 +6,7 @@
 
 ----
 
-<ins> **Easy Guide:** </ins>
+<ins> **Easy Guide:(turn sound on 🔊)** </ins>
 
 <video style="width: 55vw; min-width: 330px;" src="https://user-images.githubusercontent.com/63428105/232229972-c736155a-6631-4a2b-98e5-cbb66914d611.mp4" controls="controls">
 <!--
